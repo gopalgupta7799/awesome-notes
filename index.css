@@ -16,6 +16,15 @@ nav{
     text-decoration: underline;
     box-shadow: 0px 90px 100px 20px rgba(255, 0, 0, 0.233);
 }
+nav h1{
+    background-color: red;
+}
+nav em{
+    align-self: flex-end;
+    position: fixed;
+    margin-right: -96%;
+    transform: translate(-50%);
+}
 .welcome{
     display: flex;
     flex-direction: column;
