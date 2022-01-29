@@ -21,6 +21,7 @@ nav em{
     position: fixed;
     margin-right: -96%;
     transform: translate(-50%);
+    color: black;
 }
 .welcome{
     display: flex;
